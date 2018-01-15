@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Nick Dentry Portfolio
+
+This is my professional portfolio.  It uses AWS and ReactJS.
